@@ -9,7 +9,7 @@ The models used were <b>Linear Regression,SARIMAX and LSTM</b>.
 ## Data Visualization
 Various graphs have been plotted such as the moving average, correlation of adjusted closing prices and risk involved against expected return.
  
-  <img src="images/plot_5.png"  width="370" height="230">   <img src="images/plot_4.png"  width="380" height="230">
+  <img src="images/plot_5.png"  width="395" height="230">   <img src="images/plot_4.png"  width="405" height="230">
   <img src="images/plot_1.png" width="500" height="290">  <img src="images/plot_2.png"  width="340" height="290">
   
   ## Prediction using Linear Regression
@@ -56,6 +56,6 @@ Linear Regression has a <b>r2_score of 0.40</b> and a low score was expected as 
   Auto_arima was used to find the best parameters for the model by minimizing the <b>AIC(Akaike's Information Criterion)</b>. The model achieved an <b>r2_score of 0.679</b>
   and <b>RMSE of 56.06</b>.
   
-   <img src="images/plot_9.png" width="370" height="330">  <img src="images/plot_10.png" width="475" height="330">
+   <img src="images/plot_9.png" width="370" height="330">  <img src="images/plot_10.png" width="470" height="330">
   
  
