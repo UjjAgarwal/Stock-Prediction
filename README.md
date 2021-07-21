@@ -56,6 +56,7 @@ Linear Regression has a <b>r2_score of 0.40</b> and a low score was expected as 
   Auto_arima was used to find the best parameters for the model by minimizing the <b>AIC(Akaike's Information Criterion)</b>. The model achieved an <b>r2_score of 0.679</b>
   and <b>RMSE of 56.06</b>.
   
-   <img src="images/plot_9.png" width="350" height="330">  <img src="images/plot_10.png" width="450" height="330">
+   <img src="images/plot_9.png">
+   <img src="images/plot_10.png">
   
  
