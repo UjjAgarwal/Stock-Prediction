@@ -44,7 +44,8 @@ Various graphs have been plotted such as the moving average, correlation of adju
     </table>
 </body>
 
-<img src="images/plot_6.png"  width="470" height="280">   <img src="images/plot_7.png"  width="480" height="280">
+<img src="images/plot_6.png"  width="370" height="280">   <img src="images/plot_7.png"  width="380" height="280">
+
 Linear Regression has a <b>r2_score of 0.40</b> and a low score was expected as the model assumes the mean and variance to be constant over time however clearly thats not the case here.
 
  ## Prediction using LSTM
