@@ -9,8 +9,8 @@ The models used were <b>Linear Regression,SARIMAX and LSTM</b>.
 ## Data Visualization
 Various graphs have been plotted such as the moving average, correlation of adjusted closing prices and risk involved against expected return.
  
-  <img src="images/plot_5.png"  width="470" height="230">   <img src="images/plot_4.png"  width="480" height="230">
-  <img src="images/plot_1.png" width="630" height="290">  <img src="images/plot_2.png"  width="320" height="290">
+  <img src="images/plot_5.png"  width="370" height="230">   <img src="images/plot_4.png"  width="380" height="230">
+  <img src="images/plot_1.png" width="500" height="290">  <img src="images/plot_2.png"  width="340" height="290">
   
   ## Prediction using Linear Regression
   The columns 'Open','Close' and 'Volume' have been used to predict the closing price of <b>TCS</b>. Data was split into 80 train and test data with train data equal to 80% of the dataset.
@@ -56,6 +56,6 @@ Linear Regression has a <b>r2_score of 0.40</b> and a low score was expected as 
   Auto_arima was used to find the best parameters for the model by minimizing the <b>AIC(Akaike's Information Criterion)</b>. The model achieved an <b>r2_score of 0.679</b>
   and <b>RMSE of 56.06</b>.
   
-   <img src="images/plot_9.png" width="455" height="330">  <img src="images/plot_10.png" width="495" height="330">
+   <img src="images/plot_9.png" width="370" height="330">  <img src="images/plot_10.png" width="475" height="330">
   
  
